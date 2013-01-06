@@ -29,8 +29,18 @@ function PlayerVM(Name, Color)
 //Represents a Game
 function GameVM(PlayerCount)
 {
+	var self = this;
 	if(PlayerCount == null) PlayerCount = 4; //default 
 	this.PlayerCount = ko.observable(PlayerCount);
+	
 	this.Players = ko.observableArray();
+
+	this.Start = function()
+	{
+		for(var i = 0, l = self.PlayerCount();i<l; i++)
+		{
+			self.Players.push( new PlayerVM("Player " + (i+1), "Color") );
+		}
+	};
 }
 
