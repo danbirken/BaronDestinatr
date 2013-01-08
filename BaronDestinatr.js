@@ -1,6 +1,8 @@
 //Represents a player in the game
 function PlayerVM(Name, Color)
 {
+	var self = this;
+
 	//the name of the player
 	this.Name = ko.observable(Name);
 
@@ -20,7 +22,14 @@ function PlayerVM(Name, Color)
 	this.Payout = ko.computed(
 		function()
 		{
-			return null;
+			if(self.Origin() != null && self.Destination() != null)
+			{
+					return Payoffs[self.Origin()][self.Destination()];
+			}
+			else
+			{
+				return null;
+			}
 		}
 	);
 }
@@ -43,4 +52,5 @@ function GameVM(PlayerCount)
 		}
 	};
 }
+
 
