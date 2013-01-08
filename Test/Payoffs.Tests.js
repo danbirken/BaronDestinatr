@@ -8,7 +8,7 @@ test( "existance", function() {
 
 test( "various payoffs", function() {
 
-	//Randomly selected some from table at https://docs.google.com/spreadsheet/ccc?key=0Aqtfd6ldXtWFdFJWYUducEZBRWVWTFN1MnhXZktsTWc
+	//Randomly selected some from table at https://docs.google.com/spreadsheet/ccc?key=0AocDmydhOGwvdE5ZUnY1aVJGRTRNS0YyUEowM3hESnc
 	equal(Payoffs["New York"]["Los Angeles"], 31);
 	equal(Payoffs["Chicago"]["Detroit"], 2.5)
 	equal(Payoffs["Dallas"]["Seattle"], 24);
