@@ -1,0 +1,453 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"d",
+				"Destination"
+			],
+			[
+				"Pla",
+				"PlayerVM"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/C/Users/drdamour/Documents/GitHub/BaronDestinatr/Test/BaronDestinatr.Test.html",
+			"settings":
+			{
+				"buffer_size": 784,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/drdamour/Documents/GitHub/BaronDestinatr/BaronDestinatr.html",
+			"settings":
+			{
+				"buffer_size": 520,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/drdamour/Documents/GitHub/BaronDestinatr/BaronDestinatr.js",
+			"settings":
+			{
+				"buffer_size": 1034,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/drdamour/Documents/GitHub/BaronDestinatr/Test/PlayerVM.Tests.js",
+			"settings":
+			{
+				"buffer_size": 1074,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/drdamour/Documents/GitHub/BaronDestinatr/Test/Payoffs.Tests.js",
+			"settings":
+			{
+				"buffer_size": 1042,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/drdamour/Documents/GitHub/BaronDestinatr/Test/GameVM.Tests.js",
+			"settings":
+			{
+				"buffer_size": 887,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"rein",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"re",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"ind",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"con",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"inde",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"inden",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 416.0
+	},
+	"console":
+	{
+		"height": 153.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/drdamour/Documents/GitHub/BaronDestinatr/BaronDestinatr.Destinations.js",
+		"/C/Users/drdamour/Documents/GitHub/BaronDestinatr/Test/Destinations.Tests.js",
+		"/C/Users/drdamour/Documents/GitHub/BaronDestinatr/Test/Payoffs.Tests.js",
+		"/C/Users/drdamour/Documents/GitHub/BaronDestinatr/BaronDestinatr.Payoffs.js",
+		"/C/Users/drdamour/Documents/visual studio 2010/Projects/TestProject1/TestResults/drdamour_DEATHPROOF 2013-01-07 21_24_19/Out/out.txt",
+		"/C/Users/drdamour/Documents/visual studio 2010/Projects/TestProject1/TestResults/drdamour_DEATHPROOF 2013-01-07 21_19_00/Out/out.txt",
+		"/C/Users/drdamour/Documents/GitHub/BaronDestinatr/Test/UserVM.Tests.js",
+		"/C/Users/drdamour/Documents/GitHub/BaronDestinatr/References/knockout-2.2.0.js",
+		"/C/Users/drdamour/Documents/GitHub/BaronDestinatr/BaronDestinatr.sublime-workspace",
+		"/C/Users/drdamour/AppData/Roaming/Sublime Text 2/Packages/User/Preferences.sublime-settings"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"NorthWest",
+			"SouthWest",
+			"NorthWest",
+			"SouthWest",
+			"SouthCentral",
+			"SouthWest",
+			"NorthWest",
+			"SouthCentral",
+			"SouthWest",
+			"NorthEast",
+			"NorthCentral",
+			"SouthEast",
+			"Plains",
+			"\"\",",
+			"NorthWest",
+			"SouthCentral",
+			"SouthWest",
+			"NorthEast",
+			"NorthCentral",
+			"SouthEast",
+			"Plains",
+			"even",
+			"Portland  ",
+			", ",
+			"Player",
+			"player",
+			"Player",
+			"Name",
+			"4",
+			"p",
+			",",
+			"()",
+			"equal",
+			"yeah",
+			"<",
+			"div"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"\"aa\",",
+			"Portland, "
+		],
+		"reverse": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/C/Users/drdamour/Documents/GitHub/BaronDestinatr/Test/BaronDestinatr.Test.html",
+					"settings":
+					{
+						"buffer_size": 784,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								277,
+								277
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/C/Users/drdamour/Documents/GitHub/BaronDestinatr/BaronDestinatr.html",
+					"settings":
+					{
+						"buffer_size": 520,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								290,
+								290
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/C/Users/drdamour/Documents/GitHub/BaronDestinatr/BaronDestinatr.js",
+					"settings":
+					{
+						"buffer_size": 1034,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								567,
+								567
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 84.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 3,
+					"file": "/C/Users/drdamour/Documents/GitHub/BaronDestinatr/Test/PlayerVM.Tests.js",
+					"settings":
+					{
+						"buffer_size": 1074,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1073,
+								1073
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 807.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/C/Users/drdamour/Documents/GitHub/BaronDestinatr/Test/Payoffs.Tests.js",
+					"settings":
+					{
+						"buffer_size": 1042,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								742,
+								283
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "/C/Users/drdamour/Documents/GitHub/BaronDestinatr/Test/GameVM.Tests.js",
+					"settings":
+					{
+						"buffer_size": 887,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								206,
+								206
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 35.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.487048475169,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 168.0,
+	"status_bar_visible": true
+}
