@@ -66,7 +66,7 @@ Payoffs = {
 		"St Paul": 12,
 		"Tampa": 13.5,
 		"Tucumcari": 18.5,
-		"Washington": 3.5,},
+		"Washington": 3.5},
 	"Baltimore": {
 		"Albany": 3.5,
 		"Atlanta": 7,
@@ -134,7 +134,7 @@ Payoffs = {
 		"St Paul": 12,
 		"Tampa": 10,
 		"Tucumcari": 18.5,
-		"Washington": 0.5,},
+		"Washington": 0.5},
 	"Boston": {
 		"Albany": 2,
 		"Atlanta": 11,
@@ -202,7 +202,7 @@ Payoffs = {
 		"St Paul": 14,
 		"Tampa": 14,
 		"Tucumcari": 21,
-		"Washington": 4.5,},
+		"Washington": 4.5},
 	"Buffalo": {
 		"Albany": 3,
 		"Atlanta": 9.5,
@@ -270,7 +270,7 @@ Payoffs = {
 		"St Paul": 9,
 		"Tampa": 14,
 		"Tucumcari": 16.5,
-		"Washington": 4.5,},
+		"Washington": 4.5},
 	"New York": {
 		"Albany": 1.5,
 		"Atlanta": 8.5,
@@ -338,7 +338,7 @@ Payoffs = {
 		"St Paul": 13,
 		"Tampa": 12,
 		"Tucumcari": 20,
-		"Washington": 2,},
+		"Washington": 2},
 	"Philadelphia": {
 		"Albany": 2.5,
 		"Atlanta": 7.5,
@@ -406,7 +406,7 @@ Payoffs = {
 		"St Paul": 12,
 		"Tampa": 11,
 		"Tucumcari": 19,
-		"Washington": 1.5,},
+		"Washington": 1.5},
 	"Pittsburgh": {
 		"Albany": 5.5,
 		"Atlanta": 8,
@@ -474,7 +474,7 @@ Payoffs = {
 		"St Paul": 8.5,
 		"Tampa": 12.5,
 		"Tucumcari": 15.5,
-		"Washington": 3,},
+		"Washington": 3},
 	"Portland, ME": {
 		"Albany": 3,
 		"Atlanta": 12,
@@ -542,7 +542,7 @@ Payoffs = {
 		"St Paul": 15.5,
 		"Tampa": 15,
 		"Tucumcari": 22,
-		"Washington": 5.5,},
+		"Washington": 5.5},
 	"Washington": {
 		"Albany": 3.5,
 		"Atlanta": 8.5,
@@ -610,7 +610,7 @@ Payoffs = {
 		"St Paul": 11.5,
 		"Tampa": 9.5,
 		"Tucumcari": 18,
-		"Washington": 0,},
+		"Washington": 0},
 	"Atlanta": {
 		"Albany": 10,
 		"Atlanta": 0,
@@ -678,7 +678,7 @@ Payoffs = {
 		"St Paul": 11.5,
 		"Tampa": 5.5,
 		"Tucumcari": 13,
-		"Washington": 8.5,},
+		"Washington": 8.5},
 	"Charleston": {
 		"Albany": 9.5,
 		"Atlanta": 3,
@@ -746,7 +746,7 @@ Payoffs = {
 		"St Paul": 14,
 		"Tampa": 4.5,
 		"Tucumcari": 16,
-		"Washington": 5,},
+		"Washington": 5},
 	"Charlotte": {
 		"Albany": 7.5,
 		"Atlanta": 2.5,
@@ -814,7 +814,7 @@ Payoffs = {
 		"St Paul": 12.5,
 		"Tampa": 6,
 		"Tucumcari": 15.5,
-		"Washington": 4,},
+		"Washington": 4},
 	"Chattanooga": {
 		"Albany": 10,
 		"Atlanta": 1.5,
@@ -882,7 +882,7 @@ Payoffs = {
 		"St Paul": 10,
 		"Tampa": 2,
 		"Tucumcari": 13,
-		"Washington": 6,},
+		"Washington": 6},
 	"Jacksonville": {
 		"Albany": 11,
 		"Atlanta": 3.5,
@@ -950,7 +950,7 @@ Payoffs = {
 		"St Paul": 15,
 		"Tampa": 2,
 		"Tucumcari": 16,
-		"Washington": 6,},
+		"Washington": 6},
 	"Knoxville": {
 		"Albany": 8.5,
 		"Atlanta": 2,
@@ -1018,7 +1018,7 @@ Payoffs = {
 		"St Paul": 9.5,
 		"Tampa": 7,
 		"Tucumcari": 13,
-		"Washington": 5,},
+		"Washington": 5},
 	"Miami": {
 		"Albany": 15,
 		"Atlanta": 7,
@@ -1086,7 +1086,7 @@ Payoffs = {
 		"St Paul": 18.5,
 		"Tampa": 2,
 		"Tucumcari": 19.5,
-		"Washington": 11,},
+		"Washington": 11},
 	"Mobile": {
 		"Albany": 13.5,
 		"Atlanta": 3.5,
@@ -1154,7 +1154,7 @@ Payoffs = {
 		"St Paul": 12.5,
 		"Tampa": 6.5,
 		"Tucumcari": 11.5,
-		"Washington": 10,},
+		"Washington": 10},
 	"Norfolk": {
 		"Albany": 6,
 		"Atlanta": 5.5,
@@ -1222,7 +1222,7 @@ Payoffs = {
 		"St Paul": 13.5,
 		"Tampa": 6,
 		"Tucumcari": 18.5,
-		"Washington": 2.5,},
+		"Washington": 2.5},
 	"Richmond": {
 		"Albany": 5,
 		"Atlanta": 6,
@@ -1290,7 +1290,7 @@ Payoffs = {
 		"St Paul": 12.5,
 		"Tampa": 8.5,
 		"Tucumcari": 18,
-		"Washington": 1,},
+		"Washington": 1},
 	"Tampa": {
 		"Albany": 13.5,
 		"Atlanta": 5.5,
@@ -1358,7 +1358,7 @@ Payoffs = {
 		"St Paul": 16.5,
 		"Tampa": 0,
 		"Tucumcari": 17.5,
-		"Washington": 9.5,},
+		"Washington": 9.5},
 	"Chicago": {
 		"Albany": 8,
 		"Atlanta": 7.5,
@@ -1426,7 +1426,7 @@ Payoffs = {
 		"St Paul": 4,
 		"Tampa": 12.5,
 		"Tucumcari": 11,
-		"Washington": 7.5,},
+		"Washington": 7.5},
 	"Cincinnati": {
 		"Albany": 7,
 		"Atlanta": 5,
@@ -1494,7 +1494,7 @@ Payoffs = {
 		"St Paul": 7,
 		"Tampa": 10,
 		"Tucumcari": 12.5,
-		"Washington": 5.5,},
+		"Washington": 5.5},
 	"Cleveland": {
 		"Albany": 5,
 		"Atlanta": 7.5,
@@ -1562,7 +1562,7 @@ Payoffs = {
 		"St Paul": 7.5,
 		"Tampa": 12.5,
 		"Tucumcari": 14.5,
-		"Washington": 4.5,},
+		"Washington": 4.5},
 	"Columbus": {
 		"Albany": 6,
 		"Atlanta": 6,
@@ -1630,7 +1630,7 @@ Payoffs = {
 		"St Paul": 7.5,
 		"Tampa": 11.5,
 		"Tucumcari": 14,
-		"Washington": 5,},
+		"Washington": 5},
 	"Detroit": {
 		"Albany": 5.5,
 		"Atlanta": 7.5,
@@ -1698,7 +1698,7 @@ Payoffs = {
 		"St Paul": 6.5,
 		"Tampa": 12.5,
 		"Tucumcari": 14,
-		"Washington": 6,},
+		"Washington": 6},
 	"Indianapolis": {
 		"Albany": 7.5,
 		"Atlanta": 6,
@@ -1766,7 +1766,7 @@ Payoffs = {
 		"St Paul": 6,
 		"Tampa": 11,
 		"Tucumcari": 11.5,
-		"Washington": 6.5,},
+		"Washington": 6.5},
 	"Milwaukee": {
 		"Albany": 9,
 		"Atlanta": 8,
@@ -1834,7 +1834,7 @@ Payoffs = {
 		"St Paul": 3.5,
 		"Tampa": 13.5,
 		"Tucumcari": 11,
-		"Washington": 6.5,},
+		"Washington": 6.5},
 	"St Louis": {
 		"Albany": 10,
 		"Atlanta": 6,
@@ -1902,7 +1902,7 @@ Payoffs = {
 		"St Paul": 5.5,
 		"Tampa": 11,
 		"Tucumcari": 9.5,
-		"Washington": 9,},
+		"Washington": 9},
 	"Birmingham": {
 		"Albany": 11,
 		"Atlanta": 1.5,
@@ -1970,7 +1970,7 @@ Payoffs = {
 		"St Paul": 10.5,
 		"Tampa": 6,
 		"Tucumcari": 11.5,
-		"Washington": 7.5,},
+		"Washington": 7.5},
 	"Dallas": {
 		"Albany": 17,
 		"Atlanta": 8,
@@ -2038,7 +2038,7 @@ Payoffs = {
 		"St Paul": 10,
 		"Tampa": 12.5,
 		"Tucumcari": 5,
-		"Washington": 14,},
+		"Washington": 14},
 	"Fort Worth": {
 		"Albany": 17,
 		"Atlanta": 8,
@@ -2106,7 +2106,7 @@ Payoffs = {
 		"St Paul": 10,
 		"Tampa": 12.5,
 		"Tucumcari": 5,
-		"Washington": 14,},
+		"Washington": 14},
 	"Houston": {
 		"Albany": 18.5,
 		"Atlanta": 8.5,
@@ -2174,7 +2174,7 @@ Payoffs = {
 		"St Paul": 12,
 		"Tampa": 11.5,
 		"Tucumcari": 8,
-		"Washington": 15,},
+		"Washington": 15},
 	"Little Rock": {
 		"Albany": 13.5,
 		"Atlanta": 5.5,
@@ -2242,7 +2242,7 @@ Payoffs = {
 		"St Paul": 9.5,
 		"Tampa": 9.5,
 		"Tucumcari": 7.5,
-		"Washington": 10.5,},
+		"Washington": 10.5},
 	"Louisville": {
 		"Albany": 8.5,
 		"Atlanta": 4.5,
@@ -2310,7 +2310,7 @@ Payoffs = {
 		"St Paul": 7,
 		"Tampa": 10,
 		"Tucumcari": 12,
-		"Washington": 6.5,},
+		"Washington": 6.5},
 	"Memphis": {
 		"Albany": 12.5,
 		"Atlanta": 4,
@@ -2378,7 +2378,7 @@ Payoffs = {
 		"St Paul": 9,
 		"Tampa": 8.5,
 		"Tucumcari": 8.5,
-		"Washington": 9.5,},
+		"Washington": 9.5},
 	"Nashville": {
 		"Albany": 10.5,
 		"Atlanta": 3,
@@ -2446,7 +2446,7 @@ Payoffs = {
 		"St Paul": 8.5,
 		"Tampa": 8,
 		"Tucumcari": 11,
-		"Washington": 7,},
+		"Washington": 7},
 	"New Orleans": {
 		"Albany": 15,
 		"Atlanta": 5,
@@ -2514,7 +2514,7 @@ Payoffs = {
 		"St Paul": 12.5,
 		"Tampa": 8,
 		"Tucumcari": 10,
-		"Washington": 11,},
+		"Washington": 11},
 	"San Antonio": {
 		"Albany": 19.5,
 		"Atlanta": 10.5,
@@ -2582,7 +2582,7 @@ Payoffs = {
 		"St Paul": 12.5,
 		"Tampa": 13.5,
 		"Tucumcari": 7,
-		"Washington": 17,},
+		"Washington": 17},
 	"Shreveport": {
 		"Albany": 16,
 		"Atlanta": 6.5,
@@ -2650,7 +2650,7 @@ Payoffs = {
 		"St Paul": 10.5,
 		"Tampa": 11,
 		"Tucumcari": 6.5,
-		"Washington": 12,},
+		"Washington": 12},
 	"Denver": {
 		"Albany": 18.5,
 		"Atlanta": 15.5,
@@ -2718,7 +2718,7 @@ Payoffs = {
 		"St Paul": 9,
 		"Tampa": 20,
 		"Tucumcari": 4.5,
-		"Washington": 18,},
+		"Washington": 18},
 	"Des Moines": {
 		"Albany": 12,
 		"Atlanta": 9.5,
@@ -2786,7 +2786,7 @@ Payoffs = {
 		"St Paul": 2.5,
 		"Tampa": 14.5,
 		"Tucumcari": 9,
-		"Washington": 11,},
+		"Washington": 11},
 	"Fargo": {
 		"Albany": 14.5,
 		"Atlanta": 13.5,
@@ -2854,7 +2854,7 @@ Payoffs = {
 		"St Paul": 2.5,
 		"Tampa": 19,
 		"Tucumcari": 14,
-		"Washington": 14,},
+		"Washington": 14},
 	"Kansas City": {
 		"Albany": 12.5,
 		"Atlanta": 9,
@@ -2922,7 +2922,7 @@ Payoffs = {
 		"St Paul": 5,
 		"Tampa": 13.5,
 		"Tucumcari": 6.5,
-		"Washington": 11.5,},
+		"Washington": 11.5},
 	"Minneapolis": {
 		"Albany": 12.5,
 		"Atlanta": 11.5,
@@ -2990,7 +2990,7 @@ Payoffs = {
 		"St Paul": 0,
 		"Tampa": 16.5,
 		"Tucumcari": 11.5,
-		"Washington": 11.5,},
+		"Washington": 11.5},
 	"Oklahoma City": {
 		"Albany": 15.5,
 		"Atlanta": 9,
@@ -3058,7 +3058,7 @@ Payoffs = {
 		"St Paul": 8,
 		"Tampa": 13.5,
 		"Tucumcari": 4,
-		"Washington": 14,},
+		"Washington": 14},
 	"Omaha": {
 		"Albany": 13,
 		"Atlanta": 10,
@@ -3126,7 +3126,7 @@ Payoffs = {
 		"St Paul": 3.5,
 		"Tampa": 15,
 		"Tucumcari": 8.5,
-		"Washington": 12.5,},
+		"Washington": 12.5},
 	"Pueblo": {
 		"Albany": 18.5,
 		"Atlanta": 15,
@@ -3194,7 +3194,7 @@ Payoffs = {
 		"St Paul": 9.5,
 		"Tampa": 20,
 		"Tucumcari": 3.5,
-		"Washington": 18,},
+		"Washington": 18},
 	"St Paul": {
 		"Albany": 12,
 		"Atlanta": 11.5,
@@ -3262,7 +3262,7 @@ Payoffs = {
 		"St Paul": 0,
 		"Tampa": 16.5,
 		"Tucumcari": 11,
-		"Washington": 11.5,},
+		"Washington": 11.5},
 	"Billings": {
 		"Albany": 21,
 		"Atlanta": 19,
@@ -3330,7 +3330,7 @@ Payoffs = {
 		"St Paul": 9,
 		"Tampa": 24,
 		"Tucumcari": 11,
-		"Washington": 20.5,},
+		"Washington": 20.5},
 	"Butte": {
 		"Albany": 23.5,
 		"Atlanta": 21.5,
@@ -3398,7 +3398,7 @@ Payoffs = {
 		"St Paul": 11,
 		"Tampa": 26.5,
 		"Tucumcari": 13.5,
-		"Washington": 22.5,},
+		"Washington": 22.5},
 	"Casper": {
 		"Albany": 18,
 		"Atlanta": 25.5,
@@ -3466,7 +3466,7 @@ Payoffs = {
 		"St Paul": 8,
 		"Tampa": 15,
 		"Tucumcari": 8,
-		"Washington": 17.5,},
+		"Washington": 17.5},
 	"Pocatello": {
 		"Albany": 23.5,
 		"Atlanta": 21,
@@ -3534,7 +3534,7 @@ Payoffs = {
 		"St Paul": 13.5,
 		"Tampa": 25.5,
 		"Tucumcari": 11,
-		"Washington": 23,},
+		"Washington": 23},
 	"Portland, OR": {
 		"Albany": 30,
 		"Atlanta": 28,
@@ -3602,7 +3602,7 @@ Payoffs = {
 		"St Paul": 18,
 		"Tampa": 33,
 		"Tucumcari": 18.5,
-		"Washington": 30,},
+		"Washington": 30},
 	"Rapid City": {
 		"Albany": 17,
 		"Atlanta": 16,
@@ -3670,7 +3670,7 @@ Payoffs = {
 		"St Paul": 5,
 		"Tampa": 20.5,
 		"Tucumcari": 11,
-		"Washington": 18,},
+		"Washington": 18},
 	"Salt Lake City": {
 		"Albany": 23.5,
 		"Atlanta": 20.5,
@@ -3738,7 +3738,7 @@ Payoffs = {
 		"St Paul": 13.5,
 		"Tampa": 25,
 		"Tucumcari": 9.5,
-		"Washington": 23,},
+		"Washington": 23},
 	"Seattle": {
 		"Albany": 31.5,
 		"Atlanta": 28,
@@ -3806,7 +3806,7 @@ Payoffs = {
 		"St Paul": 17.5,
 		"Tampa": 33,
 		"Tucumcari": 20.5,
-		"Washington": 29,},
+		"Washington": 29},
 	"Spokane": {
 		"Albany": 26.5,
 		"Atlanta": 28,
@@ -3874,7 +3874,7 @@ Payoffs = {
 		"St Paul": 14.5,
 		"Tampa": 30,
 		"Tucumcari": 17.5,
-		"Washington": 26,},
+		"Washington": 26},
 	"El Paso": {
 		"Albany": 22,
 		"Atlanta": 14.5,
@@ -3942,7 +3942,7 @@ Payoffs = {
 		"St Paul": 14,
 		"Tampa": 19.5,
 		"Tucumcari": 3.5,
-		"Washington": 29.5,},
+		"Washington": 29.5},
 	"Las Vegas": {
 		"Albany": 28,
 		"Atlanta": 23,
@@ -4010,7 +4010,7 @@ Payoffs = {
 		"St Paul": 18,
 		"Tampa": 28.5,
 		"Tucumcari": 9.5,
-		"Washington": 27.5,},
+		"Washington": 27.5},
 	"Los Angeles": {
 		"Albany": 30.5,
 		"Atlanta": 23,
@@ -4078,7 +4078,7 @@ Payoffs = {
 		"St Paul": 21.5,
 		"Tampa": 27.5,
 		"Tucumcari": 11.5,
-		"Washington": 29,},
+		"Washington": 29},
 	"Oakland": {
 		"Albany": 31,
 		"Atlanta": 27,
@@ -4146,7 +4146,7 @@ Payoffs = {
 		"St Paul": 21,
 		"Tampa": 31.5,
 		"Tucumcari": 14.5,
-		"Washington": 30.5,},
+		"Washington": 30.5},
 	"Phoenix": {
 		"Albany": 27.5,
 		"Atlanta": 19,
@@ -4214,7 +4214,7 @@ Payoffs = {
 		"St Paul": 19.5,
 		"Tampa": 24,
 		"Tucumcari": 8.5,
-		"Washington": 26.5,},
+		"Washington": 26.5},
 	"Reno": {
 		"Albany": 25.5,
 		"Atlanta": 26,
@@ -4282,7 +4282,7 @@ Payoffs = {
 		"St Paul": 19,
 		"Tampa": 31,
 		"Tucumcari": 15.5,
-		"Washington": 28,},
+		"Washington": 28},
 	"Sacramento": {
 		"Albany": 27,
 		"Atlanta": 27,
@@ -4350,7 +4350,7 @@ Payoffs = {
 		"St Paul": 20.5,
 		"Tampa": 31.5,
 		"Tucumcari": 14.5,
-		"Washington": 29.5,},
+		"Washington": 29.5},
 	"San Diego": {
 		"Albany": 31.5,
 		"Atlanta": 22.5,
@@ -4418,7 +4418,7 @@ Payoffs = {
 		"St Paul": 22.5,
 		"Tampa": 27,
 		"Tucumcari": 11,
-		"Washington": 28.5,},
+		"Washington": 28.5},
 	"San Francisco": {
 		"Albany": 31,
 		"Atlanta": 27,
@@ -4486,7 +4486,7 @@ Payoffs = {
 		"St Paul": 21,
 		"Tampa": 31.5,
 		"Tucumcari": 14.5,
-		"Washington": 30.5,},
+		"Washington": 30.5},
 	"Tucumcari": {
 		"Albany": 18.5,
 		"Atlanta": 13,
@@ -4554,5 +4554,5 @@ Payoffs = {
 		"St Paul": 11,
 		"Tampa": 17.5,
 		"Tucumcari": 0,
-		"Washington": 18,},
+		"Washington": 18}
 	};
